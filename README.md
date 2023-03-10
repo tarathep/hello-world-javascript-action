@@ -21,3 +21,11 @@ uses: actions/hello-world-javascript-action@v1.1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
+
+## Create a JavaScript action
+
+https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
+
+As an alternative, you can use a tool called `@vercel/ncc` to compile your code and modules into one file used for distribution.
+
+
